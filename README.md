@@ -5,7 +5,7 @@ A collection of Netskope Custom Connectors I've built to explore and demonstrate
 | SaaS App  | Domain(s) | Activity Detection | Notes |
 | ------------- | ------------- | ------------- | ------------- |
 | Caltopo  | caltopo.com  |Login, Logout, Import, Export, Print, Search, Create, Delete| None |
-| cPanel  | N/A | TBD |- This connector is specific to the cPanel web hosting administrator portal<br>- Edit the CSV and search and replace *.example.com with your FQDN |
+| cPanel  | N/A | TBD |- This connector is specific to the cPanel web hosting administrator portal<br>- Edit the CSV and search and replace *.example.com with your FQDN<br>- Assumes cPanel is running on default port 2083|
 
 
 ## Usage
