@@ -1,4 +1,5 @@
 # netskope-custom-app-connectors
+A collection of custom Netskope app connectors I've built to explore and demonstrate what’s possible. Some are just fun experiments, others are demos to show off how flexible the platform can be.
 
 ## Usage
 1. Download or clone this repo.
