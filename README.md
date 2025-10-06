@@ -8,3 +8,7 @@ A collection of custom Netskope app connectors I've built to explore and demonst
 4. Click **New App Definition Rule > Cloud App**
 5. Click **Import From File > Add to Activity List**
 6. Select the activities.json file to import
+
+### What you’ll find here
+- Connectors for apps not in the standard catalog
+- Proof-of-concept integrations I built out of curiosity
