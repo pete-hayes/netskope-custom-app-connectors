@@ -1,0 +1,77 @@
+[
+    {
+        "version": "0.0.0.2"
+    },
+    {
+        "domain_name": "caltopo.com",
+        "uri_path": "/account/logout",
+        "http_method": "GET",
+        "resp_code": "302",
+        "pattern": "",
+        "activity_name": "Logout",
+        "uri_param": []
+    },
+    {
+        "domain_name": "caltopo.com",
+        "uri_path": "/api/v0/import",
+        "http_method": "POST",
+        "resp_code": "200",
+        "pattern": "",
+        "activity_name": "Import",
+        "uri_param": []
+    },
+    {
+        "domain_name": "caltopo.com",
+        "uri_path": "/rest/out",
+        "http_method": "POST",
+        "resp_code": "200",
+        "pattern": "",
+        "activity_name": "Export",
+        "uri_param": []
+    },
+    {
+        "domain_name": "caltopo.com",
+        "uri_path": "/print",
+        "http_method": "POST",
+        "resp_code": "200",
+        "pattern": "",
+        "activity_name": "Print",
+        "uri_param": []
+    },
+    {
+        "domain_name": "caltopo.com",
+        "uri_path": "/account/oidclogin",
+        "http_method": "POST",
+        "resp_code": "302",
+        "pattern": "",
+        "activity_name": "Login",
+        "uri_param": []
+    },
+    {
+        "domain_name": "calptopo.com",
+        "uri_path": "/api/v1/geo/address",
+        "http_method": "GET",
+        "resp_code": "200",
+        "pattern": "",
+        "activity_name": "Search",
+        "uri_param": []
+    },
+    {
+        "domain_name": "caltopo.com",
+        "uri_path": "/api/v1/acct/.+/CollaborativeMap",
+        "http_method": "POST",
+        "resp_code": "200",
+        "pattern": "",
+        "activity_name": "Create",
+        "uri_param": []
+    },
+    {
+        "domain_name": "caltopo.com",
+        "uri_path": "/api/v1/acct/.+/CollaborativeMap/.+",
+        "http_method": "DELETE",
+        "resp_code": "200",
+        "pattern": "",
+        "activity_name": "Delete",
+        "uri_param": []
+    }
+]
