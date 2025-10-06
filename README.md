@@ -3,7 +3,7 @@ A collection of Netskope Custom Connectors I've built to explore and demonstrate
 
 ### What you’ll find here
 - Custom Connectors for apps not in the Netskope App Catalog
-- Proof-of-concept Custom Connectors I built out of curiosit
+- Proof-of-concept Custom Connectors I built out of curiosity
 
 ## Usage
 1. Download or clone this repo.
