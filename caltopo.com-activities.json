@@ -73,5 +73,32 @@
         "pattern": "",
         "activity_name": "Delete",
         "uri_param": []
+    },
+    {
+        "domain_name": "caltopo.com",
+        "uri_path": "/api/v1/map/.+/AccessCode",
+        "http_method": "POST",
+        "resp_code": "200",
+        "pattern": "",
+        "activity_name": "Share",
+        "uri_param": []
+    },
+    {
+        "domain_name": "caltopo.com",
+        "uri_path": "/api/v1/map/.+/AccessCode/.+",
+        "http_method": "DELETE",
+        "resp_code": "200",
+        "pattern": "",
+        "activity_name": "Remove Share",
+        "uri_param": []
+    },
+    {
+        "domain_name": "caltopo.com",
+        "uri_path": "/api/v1/map/.+/AccessCode/.+",
+        "http_method": "POST",
+        "resp_code": "200",
+        "pattern": "",
+        "activity_name": "Update Share",
+        "uri_param": []
     }
 ]
