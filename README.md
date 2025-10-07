@@ -1,5 +1,5 @@
 # netskope-custom-app-connectors
-A collection of Netskope Custom Connectors I've built to explore and demonstrate what’s possible. Some are just fun experiments, others are demos to show off how flexible the platform can be in detecting SaaS app activity.
+A collection of Netskope Custom Connectors I've built to explore and demonstrate what’s possible.
 
 ## Usage
 1. Download or clone this repo.
