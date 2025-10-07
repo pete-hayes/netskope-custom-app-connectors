@@ -1,0 +1,32 @@
+[
+    {
+        "version": "0.0.0.2"
+    },
+    {
+        "domain_name": "example.com",
+        "uri_path": "/login/",
+        "http_method": "POST",
+        "resp_code": "307",
+        "pattern": "",
+        "activity_name": "Login Successful",
+        "uri_param": []
+    },
+    {
+        "domain_name": "example.com",
+        "uri_path": "/login/",
+        "http_method": "POST",
+        "resp_code": "401",
+        "pattern": "",
+        "activity_name": "Login Failed",
+        "uri_param": []
+    },
+    {
+        "domain_name": "example.com",
+        "uri_path": "/logout/",
+        "http_method": "GET",
+        "resp_code": "200",
+        "pattern": "",
+        "activity_name": "Logout",
+        "uri_param": []
+    }
+]
