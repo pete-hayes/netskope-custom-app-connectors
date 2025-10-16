@@ -40,8 +40,8 @@
     },
     {
         "domain_name": "caltopo.com",
-        "uri_path": "/account/oidclogin",
-        "http_method": "POST",
+        "uri_path": "/app/oidcresponse/.+",
+        "http_method": "GET",
         "resp_code": "302",
         "pattern": "",
         "activity_name": "Login",
