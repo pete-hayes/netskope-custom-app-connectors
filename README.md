@@ -14,3 +14,9 @@ A collection of Netskope Custom Connectors I've built to explore and demonstrate
 | ------------- | ------------- | ------------- | ------------- |
 | Caltopo  | caltopo.com  |Login, Logout, Import, Export, Print, Search, Create, Delete, Share, Update Share, Delete Share| None |
 | cPanel  | N/A | Login Successful, Login Failure, Logout |- This connector is specific to the cPanel web hosting administrator portal<br>- Edit the CSV and search and replace *.example.com with your FQDN|
+
+## License
+Licensed under MIT — free to use, modify, and share, with no warranty.
+
+## Disclaimer
+This project is **not affiliated with or supported by Netskope**. It may be incomplete, outdated, or inaccurate. Use at your own risk.
